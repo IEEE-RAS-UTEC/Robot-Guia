@@ -25,11 +25,11 @@ El idioma que se utilizará en el repositorio es el inglés. Este README es lo �
 3. Recomendación: Utilziar gitflow y crear un feature para cada *issue* con el formato "feature/issue[número]".
 4. Si no se está seguro de la lógica o de la respuesta **no** hacer un pull request. Solo hacer pull request cuando el *issue* se pueda cerrar.
 5. Asignar como revisores a la directiva de RAS IEEE UTEC.
-6. Opcional: Avisar por el grupo de whatsapp que se ha hecho un pull request.
+6. Opcional: Avisar por el grupo de whatsapp o discord que se ha hecho un pull request.
 
 ## Recomendaciones
 
-* Crear un virtual environment en python con los siguientes paquetes isntalados:
+* Crear un virtual environment en python con los siguientes paquetes instalados:
     * Opencv
     * numpy
     * matplotlib (todos los gráficos e imágenes deberán ser ploteados con este paquete)
